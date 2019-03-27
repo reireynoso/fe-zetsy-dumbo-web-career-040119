@@ -42,8 +42,12 @@ article p {
   border: 3px solid #555;
 }
 
-#press img:hover, h1 a:hover{
+#press img:hover{
   border: 3px solid rgb(110,126,123);
+}
+
+h1 a:hover {
+  color: rgb(110,126,123);
 }
 
 .small {
