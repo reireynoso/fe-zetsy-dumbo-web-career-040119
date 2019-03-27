@@ -17,4 +17,41 @@ body {
 	padding: 0 45px 20px;
 }
 
+h1 a {
+  text-decoration: none;
+  color: #555; 
+  font-family: 'Baskerville',serif;
+  font-size: 5em;
+  font-weight: normal;
+}
+
+.header{
+  color: rgb(110,126,123); 
+  font-family: 'Times New Roman', serif; 
+}
+
+#intro-pic {
+  border: 4px solid rgb(110,126,123);
+}
+
+article p {
+  color: #555;
+}
+
+#press img {
+  border: 3px solid #555;
+}
+
+#press img:hover{
+  border: 3px solid rgb(110,126,123);
+}
+
+h1 a:hover {
+  color: rgb(110,126,123);
+}
+
+.small {
+  font-size: 0.8em;
+  text-align: right;
+}
 /* Write all remaining styles here */
