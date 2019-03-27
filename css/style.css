@@ -44,5 +44,6 @@ article p {
 
 .small {
   font-size: 0.8em;
+  text-align: right;
 }
 /* Write all remaining styles here */
