@@ -42,6 +42,10 @@ article p {
   border: 3px solid rgb(110,126,123);
 }
 
+#press img:hover{
+  
+}
+
 .small {
   font-size: 0.8em;
   text-align: right;
