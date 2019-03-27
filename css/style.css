@@ -30,4 +30,7 @@ h1 a {
   font-family: 'Times New Roman', serif; 
 }
 
+#intro-pic {
+  border: 4px solid rgb(110,126,123);
+}
 /* Write all remaining styles here */
