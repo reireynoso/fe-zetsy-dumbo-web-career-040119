@@ -39,11 +39,11 @@ article p {
 }
 
 #press img {
-  border: 3px solid rgb(110,126,123);
+  border: 3px solid #555;
 }
 
 #press img:hover{
-  
+  border: 3px solid rgb(110,126,123);
 }
 
 .small {
