@@ -17,12 +17,13 @@ body {
 	padding: 0 45px 20px;
 }
 
+h1 a {
+  text-decoration: none;
+}
+
 .header{
   color: rgb(110,126,123); 
   font-family: 'Times New Roman', serif; 
 }
 
-.main{
-  
-}
 /* Write all remaining styles here */
