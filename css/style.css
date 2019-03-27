@@ -20,6 +20,9 @@ body {
 h1 a {
   text-decoration: none;
   color: rgb(110,126,123); 
+  font-family: 'Baskerville',serif;
+  font-size: 5em;
+  font-weight: normal;
 }
 
 .header{
