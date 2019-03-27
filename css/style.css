@@ -19,7 +19,7 @@ body {
 
 h1 a {
   text-decoration: none;
-  color: rgb(110,126,123); 
+  color: #555; 
   font-family: 'Baskerville',serif;
   font-size: 5em;
   font-weight: normal;
@@ -42,7 +42,7 @@ article p {
   border: 3px solid #555;
 }
 
-#press img:hover{
+#press img:hover, h1 a:hover{
   border: 3px solid rgb(110,126,123);
 }
 
