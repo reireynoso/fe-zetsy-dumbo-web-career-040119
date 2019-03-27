@@ -33,4 +33,8 @@ h1 a {
 #intro-pic {
   border: 4px solid rgb(110,126,123);
 }
+
+article p {
+  color: #555;
+}
 /* Write all remaining styles here */
