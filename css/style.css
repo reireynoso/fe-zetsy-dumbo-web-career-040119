@@ -41,4 +41,8 @@ article p {
 #press img {
   border: 3px solid rgb(110,126,123);
 }
+
+.small {
+  font-size: 0.8em;
+}
 /* Write all remaining styles here */
