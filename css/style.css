@@ -37,4 +37,8 @@ h1 a {
 article p {
   color: #555;
 }
+
+#press img {
+  border: 3px solid rgb(110,126,123);
+}
 /* Write all remaining styles here */
