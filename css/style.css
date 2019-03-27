@@ -39,7 +39,7 @@ article p {
 }
 
 #press img {
-  background: transparent;
+  border: 3px solid #555;
 }
 
 #press img:hover{
