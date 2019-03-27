@@ -19,6 +19,10 @@ body {
 
 .header{
   color: rgb(110,126,123); 
-  font-family: 'Times New Roman', s
+  font-family: 'Times New Roman', serif; 
+}
+
+.main{
+  font-size: 100%;
 }
 /* Write all remaining styles here */
