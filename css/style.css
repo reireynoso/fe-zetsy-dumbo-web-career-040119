@@ -19,6 +19,6 @@ body {
 
 .header{
   color: rgb(110,126,123); 
-  font-family: "Times New Roman",
+  font-family: "Times New Roman", serif;
 }
 /* Write all remaining styles here */
